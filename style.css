@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+}
+.page-wrapper{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    margin-top: 30px;
+    width: 100%;
+    background-color: gray;
+    padding: 40px 0px 35px 0px;
+    
+}
+.navigation-bar{
+    margin-top: 10px;
+    width: 100%;
+    background-color: gray;
+    padding: 20px 0px;
+    
+}
+.content-left{
+    width: 20%;
+    background-color: gray;
+    padding: 180px 0px;
+    margin-top: 10px; 
+    display: inline-block;
+}
+.main-content{
+    margin-left: 8.5px;
+    margin-right: 8.5px;
+    width: 58%;
+    background-color: gray;
+    padding: 180px 0px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.content-right{
+    width: 20%;
+    background-color: gray;
+    padding: 180px 0px;
+    margin-top: 10px;
+    display: inline-block;
+    
+}
+.footer{
+    background-color: gray;
+    width: 100%;
+    padding: 25px 0px;
+    margin-top: 10px;
+}
